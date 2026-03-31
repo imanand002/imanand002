@@ -44,7 +44,7 @@
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/python.png" title="Python" />
-  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch" />
+  <img src="https://icons8.com/icons/set/pytorch" title="PyTorch" />
   <img src="https://img.icons8.com/color/48/react-native.png" title="React" />
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" />
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" />
@@ -95,7 +95,7 @@
 
 ---
 
-### 🎯 Goals & Roadmap
+### 🎯 Goals & Roadmap For 2026
 
 - Become an unstoppable programmer
 - Contribute to a lot of open-source projects
