@@ -44,7 +44,7 @@
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/python.png" title="Python" />
-  <img src="https://icons8.com/icons/set/pytorch" title="PyTorch" />
+  <img src="https://commons.wikimedia.org/wiki/File:PyTorch_logo_icon.svg" title="PyTorch" />
   <img src="https://img.icons8.com/color/48/react-native.png" title="React" />
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" />
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" />
@@ -61,7 +61,7 @@
 
 | 🚀 Project | 📝 Description | 🧰 Tech Stack |
 |-----------|----------------|---------------|
-| **Course Selling Backend** | Scalable REST API backend for a course marketplace with auth & payments | Node.js, Express.js |
+| **Course Selling Backend** | Scalable REST API backend for a course marketplace with auth | Node.js, Express.js |
 | **Facial Emotion Recognition** | Real-time emotion detection from facial features using deep learning | Python, EfficientNet, PyTorch |
 | **Multifactor Auth System** | Biometric authentication combining face + voice recognition for enhanced security | Python, ML, Audio/Vision |
 
